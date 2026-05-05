@@ -2,9 +2,11 @@
 
 Arcanum Portrait Maker is a Windows desktop utility for installing custom portraits and a curated Starter Character Pack for Arcanum: Of Steamworks and Magick Obscura.
 
-The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. It is separate from the Create Character portrait tool. Installing the Starter Character Pack does not add the 12 starter portraits to `userport.mes`.
+The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. It is separate from the Create Character portrait tool.
 
-I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one.
+I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one. All characters come with a bio/story and some even a unique starting item. Perhaps you will help figure out the curse of Sir Rogers? 
+
+*
 
 ## Screenshots
 
