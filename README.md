@@ -6,6 +6,27 @@ The Starter Character Pack replaces the 12 stock pregenerated Pick Character cha
 
 I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one.
 
+## Screenshots
+
+![Elias Crowe portrait](screenshots/elias-crowe.png)
+![Brennock Vale portrait](screenshots/brennock-vale.png)
+![Mara Bellweather portrait](screenshots/mara-bellweather.png)
+![Sir Rogers portrait](screenshots/sir-rogers.png)
+
+The full 12-character portrait set is included in [screenshots/](screenshots/).
+
+## Download
+
+Download the app from the GitHub Releases page, not the green `Code` button. The repository ZIP only contains public project files and documentation.
+
+1. Open the Releases page.
+2. Download the Windows ZIP for Arcanum Portrait Maker.
+3. Extract the ZIP to a normal folder.
+4. Run `ArcanumPortraitMaker.exe`.
+5. Choose your Arcanum install folder inside the app.
+
+Arcanum must be installed separately. This repository and its releases do not include the game itself.
+
 ## What It Does
 
 - Installs a 12-character replacement roster for Single Player -> New Game -> Pick Character.
@@ -24,7 +45,7 @@ This project does not include Arcanum, an Arcanum executable, DAT archives, offi
 
 ## Install Starter Character Pack
 
-1. Download the release asset from GitHub Releases when it is published.
+1. Download the Windows ZIP from GitHub Releases.
 2. Extract the app folder.
 3. Run `ArcanumPortraitMaker.exe`.
 4. Open `Starter Character Pack`.
@@ -56,4 +77,3 @@ Manage Installed Portraits treats these as different systems:
 - Tested against a loose-file Arcanum install workflow.
 - Other mods that replace the same pregenerated character files or the same `.mes` records may conflict.
 - Always test on a copied install before using a long-term play install.
-

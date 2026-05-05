@@ -2,12 +2,14 @@
 
 ## Install
 
-1. Open Arcanum Portrait Maker.
-2. Choose `Starter Character Pack`.
-3. Select your Arcanum install folder.
-4. Review the preview.
-5. Install the Starter Character Pack.
-6. Open Arcanum manually and use Pick Character.
+1. Download the Windows ZIP from GitHub Releases.
+2. Extract the ZIP.
+3. Open Arcanum Portrait Maker.
+4. Choose `Starter Character Pack`.
+5. Select your Arcanum install folder.
+6. Review the preview.
+7. Install the Starter Character Pack.
+8. Open Arcanum manually and use Pick Character.
 
 ## Restore
 
@@ -18,3 +20,4 @@
 
 Restore uses app-created restore data. Keep that restore data if you may want to return to the previous stock character files.
 
+Arcanum must be installed separately. This project does not include the game.
