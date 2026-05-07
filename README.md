@@ -2,11 +2,11 @@
 
 Arcanum Portrait Maker is a Windows desktop utility for installing custom portraits and a curated Starter Character Pack for Arcanum: Of Steamworks and Magick Obscura.
 
-The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. It is separate from the Create Character portrait tool.
+Validated public release: `v1.0.0` on GitHub Release tag `v1.0.0-starter-pack`.
+
+The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. It is separate from the Create Character portrait tool. Installing the Starter Character Pack does not add the 12 starter portraits to `userport.mes`.
 
 I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one. All characters come with a bio/story and some even a unique starting item. Perhaps you will help figure out the curse of Sir Rogers? 
-
-*
 
 ## Screenshots
 
@@ -17,10 +17,19 @@ The full 12-character portrait set is included in [screenshots/](screenshots/).
 
 ## Download
 
-Download the app from the GitHub Releases page, not the green `Code` button. The repository ZIP only contains public project files and documentation.
+Download the app from the GitHub Release asset, not the green `Code` button. The repository ZIP only contains public project files and documentation.
 
-1. Open the Releases page.
-2. Download the Windows ZIP for Arcanum Portrait Maker.
+Release page:
+`https://github.com/HarleyFolgado/arcanum-portrait-maker/releases/tag/v1.0.0-starter-pack`
+
+Release asset:
+`ArcanumPortraitMaker-v1.0.0-win32-x64.zip`
+
+Validated SHA256:
+`5B2EAD1756679BC14CE6DDC43F69560A7246CA47AFDF528E89051466DEB91984`
+
+1. Open the GitHub Release page for tag `v1.0.0-starter-pack`.
+2. Download `ArcanumPortraitMaker-v1.0.0-win32-x64.zip`.
 3. Extract the ZIP to a normal folder.
 4. Run `ArcanumPortraitMaker.exe`.
 5. Choose your Arcanum install folder inside the app.
@@ -35,6 +44,15 @@ Arcanum must be installed separately. This repository and its releases do not in
 - Restores stock characters from the app-created restore point.
 - Detects old Create Character starter portrait entries without removing them automatically.
 
+## Validated v1.0.0 Status
+
+- 12 validated starter characters ship in the Starter Character Pack.
+- Install and uninstall support are included through the app preview, install, backup, and restore flow.
+- Clean GOG/base install testing is the supported `v1.0.0` baseline.
+- No Starter Character Pack leakage into Create Character was confirmed in validation.
+- Starting gear was confirmed working for the validated roster.
+- Optional UAP extra content is not part of `v1.0.0` support.
+
 ## Requirements
 
 - Windows.
@@ -45,7 +63,7 @@ This project does not include Arcanum, an Arcanum executable, DAT archives, offi
 
 ## Install Starter Character Pack
 
-1. Download the Windows ZIP from GitHub Releases.
+1. Download `ArcanumPortraitMaker-v1.0.0-win32-x64.zip` from the GitHub Release tag `v1.0.0-starter-pack`.
 2. Extract the app folder.
 3. Run `ArcanumPortraitMaker.exe`.
 4. Open `Starter Character Pack`.
@@ -74,6 +92,7 @@ Manage Installed Portraits treats these as different systems:
 
 ## Compatibility Notes
 
-- Tested against a loose-file Arcanum install workflow.
+- Tested against a clean GOG/base Arcanum install workflow.
 - Other mods that replace the same pregenerated character files or the same `.mes` records may conflict.
+- Optional UAP Race Mod / extra content support is not part of `v1.0.0`.
 - Always test on a copied install before using a long-term play install.
