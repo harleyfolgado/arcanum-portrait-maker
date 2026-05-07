@@ -11,8 +11,6 @@ I have not seen a polished full stock pregen replacement pack for Arcanum before
 ## Screenshots
 
 ![Elias Crowe portrait](screenshots/elias-crowe.png)
-![Brennock Vale portrait](screenshots/brennock-vale.png)
-![Mara Bellweather portrait](screenshots/mara-bellweather.png)
 ![Sir Rogers portrait](screenshots/sir-rogers.png)
 
 The full 12-character portrait set is included in [screenshots/](screenshots/).
