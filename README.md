@@ -6,7 +6,7 @@ Validated public release: `v1.0.0` on GitHub Release tag `v1.0.0-starter-pack`.
 
 The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. It is separate from the Create Character portrait tool. Installing the Starter Character Pack does not add the 12 starter portraits to `userport.mes`.
 
-I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one. All characters come with a bio/story and some even a unique starting item. Perhaps you will help figure out the curse of Sir Rogers? 
+I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one. All characters come with a bio/story and some even a unique starting item. Future plans are custom quest lines for the characters. Perhaps you will help figure out the curse of Sir Rogers? Any artist that want to help contribute to the project I am looking for someone to replace the current portraits with hand drawn or made if possible. 
 
 ## Screenshots
 
