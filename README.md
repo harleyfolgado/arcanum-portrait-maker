@@ -14,6 +14,7 @@ I have not seen a polished full stock pregen replacement pack for Arcanum before
 ![Starter Character Pack screen](screenshots/2-starter-character-pack-v1.1.0.png)
 ![Manage Installed Portraits screen](screenshots/3-manage-installed-portraits-v1.1.0.png)
 ![In-game character sheet](screenshots/4-in-game-character-sheet-v1.1.0.png)
+![Additional screenshot](screenshots/5-v1.1.0.png)
 
 The full 12-character portrait set is included in [screenshots/](screenshots/).
 
