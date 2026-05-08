@@ -10,10 +10,10 @@ I have not seen a polished full stock pregen replacement pack for Arcanum before
 
 ## Screenshots
 
-![Create Portrait workflow](screenshots/1-create-portrait.png)
-![Starter Character Pack screen](screenshots/2-starter-character-pack.png)
-![Manage Installed Portraits screen](screenshots/3-manage-installed-portraits.png)
-![In-game character sheet](screenshots/4-in-game-character-sheet.png)
+![Create Portrait workflow](screenshots/1-create-portrait-v1.1.0.png)
+![Starter Character Pack screen](screenshots/2-starter-character-pack-v1.1.0.png)
+![Manage Installed Portraits screen](screenshots/3-manage-installed-portraits-v1.1.0.png)
+![In-game character sheet](screenshots/4-in-game-character-sheet-v1.1.0.png)
 
 The full 12-character portrait set is included in [screenshots/](screenshots/).
 
