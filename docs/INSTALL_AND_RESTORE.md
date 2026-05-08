@@ -3,15 +3,15 @@
 ## Install
 
 Release tag:
-`https://github.com/HarleyFolgado/arcanum-portrait-maker/releases/tag/v1.0.0-starter-pack`
+`https://github.com/HarleyFolgado/arcanum-portrait-maker/releases/tag/v1.1.0`
 
 Release asset:
-`ArcanumPortraitMaker-v1.0.0-win32-x64.zip`
+`ArcanumPortraitMaker-v1.1.0-win32-x64.zip`
 
 Validated SHA256:
-`5B2EAD1756679BC14CE6DDC43F69560A7246CA47AFDF528E89051466DEB91984`
+`4A36BB2A5E97935321A7FAAB0DF648BEEB91CB0A1F2EA7A4CE673DB1DC13BFB1`
 
-1. Download `ArcanumPortraitMaker-v1.0.0-win32-x64.zip` from the GitHub Release tag `v1.0.0-starter-pack`.
+1. Download `ArcanumPortraitMaker-v1.1.0-win32-x64.zip` from the GitHub Release tag `v1.1.0`.
 2. Extract the ZIP.
 3. Open Arcanum Portrait Maker.
 4. Choose `Starter Character Pack`.
@@ -31,4 +31,27 @@ Restore uses app-created restore data. Keep that restore data if you may want to
 
 Arcanum must be installed separately. This project does not include the game.
 
-Supported `v1.0.0` baseline: clean GOG/base install. Optional UAP extra content is not part of `v1.0.0` support.
+Supported `v1.1.0` baseline: clean GOG/base install. Optional UAP extra content is not part of `v1.1.0` support.
+
+## Install Restore Female Smallfolk
+
+1. Open Arcanum Portrait Maker.
+2. Choose `Restore Female Smallfolk`.
+3. Select the Arcanum install folder.
+4. Review the replacement preview for slot 4 and slot 5.
+5. Install Stella and Loretta.
+6. Open Arcanum manually and use Pick Character.
+
+Stella is the restored Female Gnome. Loretta is the restored Female Halfling.
+
+Restore Female Smallfolk replaces Pick Character slots `16090` and `16091`. It does not add Create Character support.
+
+## Restore Previous Slot 4/5 Characters
+
+1. Open `Restore Female Smallfolk`.
+2. Select the same Arcanum install folder.
+3. Use `Restore previous slot 4/5 characters`.
+
+Restore uses the app-created backup from before Stella and Loretta were installed. This supports stock/base slot occupants and Starter Character Pack slot occupants.
+
+Supported `v1.1.0` baseline: clean GOG/base install. Restore Female Smallfolk does not require UAP, does not patch DAT files, and does not install `data/Players` or scripts.
