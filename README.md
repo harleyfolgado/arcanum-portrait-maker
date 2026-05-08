@@ -4,7 +4,7 @@ Arcanum Portrait Maker is a Windows desktop utility for installing custom portra
 
 Validated public release: `v1.1.0` on GitHub Release tag `v1.1.0`.
 
-The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. Restore Female Smallfolk replaces Pick Character slots 4 and 5 with Stella and Loretta. Both systems remain separate from the Create Character portrait tool. Installing the Starter Character Pack does not add the 12 starter portraits to `userport.mes`, and Restore Female Smallfolk does not add Stella or Loretta to Create Character.
+The Starter Character Pack replaces the 12 stock pregenerated Pick Character characters with new starter characters. Restore Female Smallfolk replaces Pick Character slots 4 and 5 with Stella and Loretta. Both systems remain separate from the Create Character portrait tool. Installing the Starter Character Pack does not add the 12 starter portraits to create a character, and Restore Female Smallfolk does not add Stella or Loretta to Create a Character. Stella and Loretta are female gnome/halfling that were not included in the game but now you can play as them. 
 
 I have not seen a polished full stock pregen replacement pack for Arcanum before, so this project attempts to provide one. All characters come with a bio/story and some even a unique starting item. Future plans are custom quest lines for the characters. Perhaps you will help figure out the curse of Sir Rogers? Any artist that want to help contribute to the project I am looking for someone to replace the current portraits with hand drawn or made if possible. 
 
@@ -124,9 +124,11 @@ Manage Installed Portraits treats these as different systems:
 ## Compatibility Notes
 
 - Tested against a clean GOG/base Arcanum install workflow.
+- Tested on Windows 11 with XP compatibility pack 
 - Other mods that replace the same pregenerated character files or the same `.mes` records may conflict.
 - Restore Female Smallfolk does not require UAP.
 - Restore Female Smallfolk uses loose-file replacement and backup restore, not DAT patching.
 - Restore Female Smallfolk does not add `data/Players` or script payloads.
 - Optional UAP Race Mod / extra content support is not part of `v1.1.0`.
 - Always test on a copied install before using a long-term play install.
+- Any issues please reach out to me. 
