@@ -1,0 +1,105 @@
+{
+  "artifactVersion": "v1.2.0",
+  "artifactType": "public-app-zip",
+  "artifactPath": "public-release/release-artifacts/ArcanumPortraitMaker-v1.2.0-win32-x64.zip",
+  "artifactSize": 171871793,
+  "artifactSha256": "a571521c6e790399c5f545597be0beb345efd5e9b6b4810e71f18ef0b18ca0b3",
+  "includedPayloadFileCount": 13,
+  "includedPayloadFiles": [
+    {
+      "relativePath": "data/mes/description.mes",
+      "size": 149,
+      "sha256": "8914d4a9d92de2de86040813f3a386c67b36ce16ffe7eb46b036678316277339"
+    },
+    {
+      "relativePath": "data/mes/gameback.mes",
+      "size": 1902,
+      "sha256": "9d211d068f2db619e704292f24b532a4dc54f667bf1138ce244ae12cab478cd4"
+    },
+    {
+      "relativePath": "data/portrait/DWF1_b.bmp",
+      "size": 17462,
+      "sha256": "5850ac98e4574a91aa8b3fb8270e681e4dd4669a60c47fab4663e3ddd220f951"
+    },
+    {
+      "relativePath": "data/portrait/DWF1.bmp",
+      "size": 5174,
+      "sha256": "8955056ece1f1d9a851238b2aab9828b4cd841db382a8cbac3fde08a38afe6e9"
+    },
+    {
+      "relativePath": "data/portrait/gameport.mes",
+      "size": 39,
+      "sha256": "8bb69fda4484ec2963926ea1c10dd2a1d1c28ebe5f16668dc8bb883114c0cf96"
+    },
+    {
+      "relativePath": "data/portrait/HUF3_b.bmp",
+      "size": 17462,
+      "sha256": "687c23f195a6480d4d30b4464a5c220ff0dfcc79c7221cb30f3d65519d45c0f4"
+    },
+    {
+      "relativePath": "data/portrait/HUF3.bmp",
+      "size": 5174,
+      "sha256": "51241abc95e755a330a5cb2c983b40bde9f3c9da87ca93a8891a0424c7f2af0b"
+    },
+    {
+      "relativePath": "data/portrait/HUF4_b.bmp",
+      "size": 17462,
+      "sha256": "ee473dc242f041afeacd688e07edba77ea382134105978a61871caeb814bd100"
+    },
+    {
+      "relativePath": "data/portrait/HUF4.bmp",
+      "size": 5174,
+      "sha256": "c0e5710387e30c9eebda2923263bf29c9c8154da7a9d4e4a57c596bfe4c5f410"
+    },
+    {
+      "relativePath": "data/proto/016090 - PC.pro",
+      "size": 951,
+      "sha256": "074dbac65a25b3e66f130b1ab1f33fb6c502ed7e587f6b1741c9cdf6a5bab11a"
+    },
+    {
+      "relativePath": "data/proto/016091 - PC.pro",
+      "size": 952,
+      "sha256": "4278fbfae4a56ed13f4675b8cee4c67a6687e66d9227195f2c46663f3b8ffef7"
+    },
+    {
+      "relativePath": "data/proto/016094 - PC.pro",
+      "size": 964,
+      "sha256": "878e462044be742879911b7195714480230e932716f6a1936561bf23b8884e2c"
+    },
+    {
+      "relativePath": "data/Rules/InvenSource.mes",
+      "size": 212,
+      "sha256": "a9ba548b68adfce1f78fe997dfe60521b8d22eb0cfd65c97a57c3bbe8a5a2c2f"
+    }
+  ],
+  "verificationSummary": {
+    "stellaScale85": true,
+    "lorettaScale85": true,
+    "dagnaScale85": true,
+    "dagnaPayloadIncluded": true,
+    "dagnaPortraitIncluded": true,
+    "restoredNamesIncluded": [
+      "8134",
+      "8137",
+      "8140",
+      "8143"
+    ],
+    "excluded8135FromStarterAndTraderRoutes": true,
+    "vendorRecords8And9AbsentFromPayload": true,
+    "noVendorIntegrationInPayload": true,
+    "noExeInRestorePayload": true,
+    "noDatInRestorePayload": true,
+    "dagnaBioExpanded": true,
+    "payloadShaChecks": {
+      "data/proto/016090 - PC.pro": "074dbac65a25b3e66f130b1ab1f33fb6c502ed7e587f6b1741c9cdf6a5bab11a",
+      "data/proto/016091 - PC.pro": "4278fbfae4a56ed13f4675b8cee4c67a6687e66d9227195f2c46663f3b8ffef7",
+      "data/proto/016094 - PC.pro": "878e462044be742879911b7195714480230e932716f6a1936561bf23b8884e2c",
+      "data/portrait/DWF1.bmp": "8955056ece1f1d9a851238b2aab9828b4cd841db382a8cbac3fde08a38afe6e9",
+      "data/portrait/DWF1_b.bmp": "5850ac98e4574a91aa8b3fb8270e681e4dd4669a60c47fab4663e3ddd220f951",
+      "data/mes/description.mes": "8914d4a9d92de2de86040813f3a386c67b36ce16ffe7eb46b036678316277339",
+      "data/mes/gameback.mes": "9d211d068f2db619e704292f24b532a4dc54f667bf1138ce244ae12cab478cd4",
+      "data/portrait/gameport.mes": "8bb69fda4484ec2963926ea1c10dd2a1d1c28ebe5f16668dc8bb883114c0cf96",
+      "data/Rules/InvenSource.mes": "a9ba548b68adfce1f78fe997dfe60521b8d22eb0cfd65c97a57c3bbe8a5a2c2f"
+    }
+  }
+}
