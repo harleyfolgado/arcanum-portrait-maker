@@ -7,7 +7,9 @@ Current public update target: `v1.2.0`
 
 
 ## What v1.2.0 Adds
-
+I have officialy restored all of the small female characters that were cut from the game. I also found some hidden small ladies clothes 
+that were under the name "No Good". I have gotten all of these clothes working now but have not implemented them into the trader, that is 
+the next version. If anyone can help me redraw Dagnas portrait that would be appreciated. Hope you all enjoy! 
 - `Stella` as a female gnome pregen
 - `Loretta` as a female halfling pregen
 - `Dagna Stonebrow` as a female dwarf pregen
