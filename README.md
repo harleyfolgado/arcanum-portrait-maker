@@ -34,14 +34,10 @@ This `v1.2.0` update focuses on the verified **Restored Female Small-Race Pregen
 
 ## Explicit Exclusions
 
-- `8135 Small Ladies City Dweller Clothes`
 - trader or vendor integration
-- Shrouded Hills vendor changes
-- Tarant tailor changes
 - Create Character support
 - EXE patching
 - Steam or pure-vanilla compatibility claims
-- `baseUAPextras` or optional UAP extra-content adapter support
 
 ## Public Payload
 
