@@ -4,7 +4,7 @@ Arcanum Portrait Maker is the public-facing release and documentation home for A
 
 Current public update target: `v1.2.0`
 
-This `v1.2.0` update focuses on the verified **Restored Female Small-Race Pregen Pack** payload for the default GOG install or bundled-UAP baseline. It is a loose-file payload update, not a Create Character feature update.
+
 
 ## What v1.2.0 Adds
 
@@ -93,4 +93,4 @@ No EXEs, DATs, vendor routes, internal reports, or unrelated binaries are part o
 
 ## Historical Note
 
-The older public `v1.1.0` release centered on a two-slot Stella/Loretta update. The `v1.2.0` public payload supersedes that scale-`70` Stella/Loretta-only state with the verified three-character scale-`85` pack that also includes Dagna Stonebrow.
+This `v1.2.0` update focuses on the verified **Restored Female Small-Race Pregen Pack** payload for the default GOG install / bundled-UAP baseline. It restores Stella, Loretta, and Dagna Stonebrow as playable female small-race pregens. It is a loose-file payload update, not a Create Character unlock.
