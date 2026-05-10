@@ -1,0 +1,106 @@
+{
+  "manifestVersion": "v1.2.0-public-payload",
+  "releaseVersion": "v1.2.0",
+  "payloadRoot": "public-release/arcanum-portrait-maker-public/release-payloads/restored-female-small-race-pregen-pack-v1.2.0",
+  "generatedAt": "2026-05-10T08:48:23.329Z",
+  "files": [
+    {
+      "relativePath": "README.txt",
+      "size": 1218,
+      "sha256": "125B38E5E20DCEA11D72D8F5DAAB97DAE241E25746C4938285353844C49517C4",
+      "purpose": "public payload install and rollback instructions",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/Rules/InvenSource.mes",
+      "size": 212,
+      "sha256": "A9BA548B68ADFCE1F78FE997DFE60521B8D22EB0CFD65C97A57C3BBE8A5A2C2F",
+      "purpose": "bounded verified starter loadouts for Dagna, Stella, and Loretta",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/mes/description.mes",
+      "size": 149,
+      "sha256": "8914D4A9D92DE2DE86040813F3A386C67B36CE16FFE7EB46B036678316277339",
+      "purpose": "bounded restored clothing-name records",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/mes/gameback.mes",
+      "size": 1902,
+      "sha256": "9D211D068F2DB619E704292F24B532A4DC54F667BF1138CE244AE12CAB478CD4",
+      "purpose": "bounded biography records for Stella, Loretta, and Dagna",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/DWF1.bmp",
+      "size": 5174,
+      "sha256": "8955056ECE1F1D9A851238B2AAB9828B4CD841DB382A8CBAC3FDE08A38AFE6E9",
+      "purpose": "Dagna portrait small image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/DWF1_b.bmp",
+      "size": 17462,
+      "sha256": "5850AC98E4574A91AA8B3FB8270E681E4DD4669A60C47FAB4663E3DDD220F951",
+      "purpose": "Dagna portrait large image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/HUF3.bmp",
+      "size": 5174,
+      "sha256": "51241ABC95E755A330A5CB2C983B40BDE9F3C9DA87CA93A8891A0424C7F2AF0B",
+      "purpose": "Loretta portrait small image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/HUF3_b.bmp",
+      "size": 17462,
+      "sha256": "687C23F195A6480D4D30B4464A5C220FF0DFCC79C7221CB30F3D65519D45C0F4",
+      "purpose": "Loretta portrait large image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/HUF4.bmp",
+      "size": 5174,
+      "sha256": "C0E5710387E30C9EEBDA2923263BF29C9C8154DA7A9D4E4A57C596BFE4C5F410",
+      "purpose": "Stella portrait small image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/HUF4_b.bmp",
+      "size": 17462,
+      "sha256": "EE473DC242F041AFEACD688E07EDBA77EA382134105978A61871CAEB814BD100",
+      "purpose": "Stella portrait large image",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/portrait/gameport.mes",
+      "size": 39,
+      "sha256": "8BB69FDA4484EC2963926EA1C10DD2A1D1C28EBE5F16668DC8BB883114C0CF96",
+      "purpose": "bounded portrait route records for Stella, Loretta, and Dagna",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/proto/016090 - PC.pro",
+      "size": 951,
+      "sha256": "074DBAC65A25B3E66F130B1AB1F33FB6C502ED7E587F6B1741C9CDF6A5BAB11A",
+      "purpose": "Stella female gnome pregen at final scale 85",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/proto/016091 - PC.pro",
+      "size": 952,
+      "sha256": "4278FBFAE4A56ED13F4675B8CEE4C67A6687E66D9227195F2C46663F3B8FFEF7",
+      "purpose": "Loretta female halfling pregen at final scale 85",
+      "versionUpdated": "v1.2.0"
+    },
+    {
+      "relativePath": "data/proto/016094 - PC.pro",
+      "size": 964,
+      "sha256": "878E462044BE742879911B7195714480230E932716F6A1936561BF23B8884E2C",
+      "purpose": "Dagna Stonebrow female dwarf pregen at final scale 85",
+      "versionUpdated": "v1.2.0"
+    }
+  ]
+}

@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0
+
+- Added `Dagna Stonebrow` as a restored female dwarf pregen.
+- Updated `Stella`, `Loretta`, and `Dagna` to final release scale `85` for better in-world proportions.
+- Added the verified public loose-file payload for the Restored Female Small-Race Pregen Pack.
+- Added verified restored small-female clothing names and starter outfits.
+- Confirmed small armor compatibility for the restored female small-race pregens.
+- Kept trader or vendor distribution out of the public payload for this release.
+- Kept Create Character support out of scope.
+- Kept the release targeted at the default GOG install / bundled-UAP baseline with no separate Race Mod required.
+
 ## 1.1.0
 
 - Added Restore Female Smallfolk for Pick Character slot 4 and slot 5 replacement installs.
